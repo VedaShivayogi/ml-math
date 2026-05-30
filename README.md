@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # myml-regression
 
 A custom machine learning regression package built **from scratch** without Scikit-learn.
@@ -118,9 +118,3 @@ myml_package/
 └── README.md
 ```
 
-## License
-
-MIT
-=======
-# ml-math
->>>>>>> ee03b2abad22dafef3a8f8aefe3a821e230c4ab5
